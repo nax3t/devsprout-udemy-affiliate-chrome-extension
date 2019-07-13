@@ -5,7 +5,9 @@
 2. Open chrome browser and type "chrome:extensions" in the address bar
 3. Check the "developer mode" option to enable loading the extension
 4. Click "Load unpacked extension" then select the unzipped repo folder from step 1
-5. The extension is now loaded in chrome and ready to execute
+5. Uncheck the "developer mode" option to disable developer mode
+6. The extension is now loaded in chrome and will execute automatically
+7. Thank you! :)
 
 ### Disclaimer
 
